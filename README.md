@@ -4,7 +4,7 @@
 
 Using this commands you can get it:
 
-1. git clone https://github.com/eyrafabdullayev/Kotlin.Catch-the-Cenn
+git clone https://github.com/eyrafabdullayev/Kotlin.Catch-the-Cenn
 
 ## About
 You must catch the Kenny object during 20 sec and if you are going to catch it your score increase one by one. \
